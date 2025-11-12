@@ -22,7 +22,7 @@ else
 fi
 
 # options
-CURL_OPTS=(--max-time 10 -sS -ku admin:cl4r0vtr)   # adjust timeout as you like
+CURL_OPTS=(--max-time 10 -sS -ku admin:xxxxxxxx)   # adjust timeout as you like
 for line in "${IPs[@]}"; do
   # trim whitespace and ignore empty lines
   line=$(echo "$line" | tr -d '\r\n' | xargs)
