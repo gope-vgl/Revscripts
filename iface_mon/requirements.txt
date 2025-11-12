@@ -1,0 +1,5 @@
+Instalar en maquina Ubuntu librería paramiko
+
+pip install paramiko
+
+El resultado será un archivo .txt que se guardará al igual que el script de ILO en la carpeta screenshots

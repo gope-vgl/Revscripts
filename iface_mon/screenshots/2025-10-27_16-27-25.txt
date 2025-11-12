@@ -1,0 +1,654 @@
+Servidor: ats-edge-co-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-25
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-co-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-27
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-co-3.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-28
+
+--- Salida del comando de red ---
+ens2f0 UP bond0
+ens2f1 UP bond0
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens6f0np0 UP bond1
+ens6f1np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-co-4.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-30
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens2f0np0 UP bond1
+ens6f1 UP bond0
+ens2f1np1 UP bond1
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-ra-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-31
+
+--- Salida del comando de red ---
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f0np0 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-ra-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-32
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-qota-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-33
+
+--- Salida del comando de red ---
+ens2f0 UP bond0
+ens2f1 UP bond0
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens6f0np0 UP bond1
+ens6f1np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-qota-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-34
+
+--- Salida del comando de red ---
+ens2f0 UP bond0
+ens2f1 UP bond0
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens6f0np0 UP bond1
+ens6f1np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-talc-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-35
+
+--- Salida del comando de red ---
+ens2f0 UP bond0
+ens2f1 UP bond0
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens6f0np0 UP bond1
+ens6f1np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-copi-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-37
+
+--- Salida del comando de red ---
+ens2f0 UP bond0
+ens2f1 UP bond0
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens6f0np0 UP bond1
+ens6f1np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-temu-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-38
+
+--- Salida del comando de red ---
+ens2f0 UP bond0
+ens2f1 UP bond0
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens6f0np0 UP bond1
+ens6f1np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-temu-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-40
+
+--- Salida del comando de red ---
+ens2f0 UP bond0
+ens2f1 UP bond0
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens6f0np0 UP bond1
+ens6f1np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-pmon-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-41
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+eno5 UP bond1
+ens2f0np0 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-curi-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-43
+
+--- Salida del comando de red ---
+ens2f1 UP bond0
+eno5np0 UP bond1
+ens2f2 UP bond0
+eno6np1 UP bond1
+ens6f0np0 UP bond1
+ens6f1np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-vald-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-44
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens5f0np0 UP bond1
+ens5f1np1 UP bond1
+ens2f0 UP bond1
+ens2f1 UP bond1
+ens2f2 UP bond1
+ens2f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-vina-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-45
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+ens2f0np0 UP bond1
+ens2f1np1 UP bond1
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-vina-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-47
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+ens2f0np0 UP bond1
+ens2f1np1 UP bond1
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-vina-3.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-48
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+ens2f0np0 UP bond1
+ens2f1np1 UP bond1
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-osor-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-49
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-lser-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-51
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-lser-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-52
+
+--- Salida del comando de red ---
+ens6f2 UP bond0
+ens6f3 UP bond0
+ens2f0np0 UP bond1
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-anto-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-27-59
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+ens2f0np0 UP bond1
+ens2f1np1 UP bond1
+eno5np0 UP bond1
+eno6np1 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-anto-3.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-00
+
+--- Salida del comando de red ---
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-chil-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-01
+
+--- Salida del comando de red ---
+eno1 UP bond0
+eno2 UP bond0
+ens5f0 UP bond1
+eno49 UP bond1
+ens5f1 UP bond1
+eno50 UP bond1
+ens4f0 UP bond1
+ens4f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-chil-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-03
+
+--- Salida del comando de red ---
+ens5f0 UP bond1
+ens6f2 UP bond0
+ens5f1 UP bond1
+ens6f3 UP bond0
+ens2f0 UP bond1
+ens2f1 UP bond1
+eno5 UP bond1
+eno6 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-chil-3.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-04
+
+--- Salida del comando de red ---
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f0np0 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-chil-4.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-05
+
+--- Salida del comando de red ---
+ens6f2 UP bond0
+ens6f3 UP bond0
+ens2f0np0 UP bond1
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-lcon-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-07
+
+--- Salida del comando de red ---
+eno1 UP bond0
+eno2 UP bond0
+ens5f0 UP bond1
+eno49 UP bond1
+ens5f1 UP bond1
+eno50 UP bond1
+ens4f0 UP bond1
+ens4f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-lcon-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-08
+
+--- Salida del comando de red ---
+ens5f0 UP bond1
+ens6f2 UP bond0
+ens5f1 UP bond1
+ens6f3 UP bond0
+ens2f0 UP bond1
+ens2f1 UP bond1
+eno5 UP bond1
+eno6 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-lcon-3.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-10
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-lcon-4.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-11
+
+--- Salida del comando de red ---
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f0np0 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-lang-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-12
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-lang-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-13
+
+--- Salida del comando de red ---
+ens6f0 UP bond0
+ens6f1 UP bond0
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-1.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-14
+
+--- Salida del comando de red ---
+eno1 UP bond0
+eno2 UP bond0
+eno49 UP bond1
+eno50 UP bond1
+ens4f0 UP bond1
+ens4f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-2.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-16
+
+--- Salida del comando de red ---
+eno1 UP bond0
+eno2 UP bond0
+eno49 UP bond1
+eno50 UP bond1
+ens4f0 UP bond1
+ens4f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-3.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-17
+
+--- Salida del comando de red ---
+eno1 UP bond0
+eno2 UP bond0
+eno49 UP bond1
+eno50 UP bond1
+ens4f0 UP bond1
+ens4f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-4.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-18
+
+--- Salida del comando de red ---
+eno1 UP bond0
+eno2 UP bond0
+eno49 UP bond1
+eno50 UP bond1
+ens4f0 UP bond1
+ens4f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-5.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-19
+
+--- Salida del comando de red ---
+eno1 UP bond0
+eno2 UP bond0
+eno49 UP bond1
+eno50 UP bond1
+ens4f0 UP bond1
+ens4f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-6.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-21
+
+--- Salida del comando de red ---
+eno1 UP bond0
+eno2 UP bond0
+eno49 UP bond1
+eno50 UP bond1
+ens4f0 UP bond1
+ens4f1 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-7.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-22
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-8.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-24
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-9.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-25
+
+--- Salida del comando de red ---
+ens6f2 UP bond0
+ens6f3 UP bond0
+ens2f0np0 UP bond1
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-10.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-26
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
+Servidor: ats-edge-inde-11.cdn.inner
+Fecha y Hora: 2025-10-27_16-28-28
+
+--- Salida del comando de red ---
+ens2f0np0 UP bond1
+ens6f2 UP bond0
+ens6f3 UP bond0
+eno5 UP bond1
+ens2f1np1 UP bond1
+eno6 UP bond1
+ens5f0 UP bond1
+ens5f1 UP bond1
+ens5f2 UP bond1
+ens5f3 UP bond1
+
+--------------------------------------------------
